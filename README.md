@@ -2,13 +2,13 @@
 
 This project is __*actively maintained*__
 
+Sensorsinterface is an Android library (AAR) that provides interfaces between the ODK sensor framework and sensor drivers.
+
 The developer [wiki](https://github.com/odk-x/tool-suite-X/wiki) (including release notes) and
 [issues tracker](https://github.com/odk-x/tool-suite-X/issues) are located under
 the [**ODK-X Tool Suite**](https://github.com/odk-x) project.
 
 Engage with the community and get technical support on [the ODK-X forum](https://forum.odk-x.org)
-
-Sensorsinterface is an Android library (AAR) that provides interfaces between the ODK sensor framework and sensor drivers.
 
 ## How to contribute
 If you’re new to ODK-X you can check out the documentation:
